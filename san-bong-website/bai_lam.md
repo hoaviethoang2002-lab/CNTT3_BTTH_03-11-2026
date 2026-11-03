@@ -158,15 +158,15 @@ Property :
 
 ### Báo cáo lỗi gửi trưởng nhóm
 
-- **Context:** Em đang kiểm tra chức năng hiển thị bảng giá sân bóng trên website bằng Chrome DevTools.
-- **Expected:** Website hiển thị đầy đủ danh sách sân bóng gồm mã sân, tên sân và giá thuê sân.
-- **Actual:** Chức năng hiển thị bảng giá không hoạt động do chương trình gọi sai tên hàm JavaScript.
+- **Context:** 
+- **Expected:** 
+- **Actual:** 
 - **Log:** Uncaught ReferenceError: hienThiBangGia is not defined
 
 ### Câu tìm kiếm Google
 
 ```text
-site:stackoverflow.com "Uncaught ReferenceError: hienThiBangGia is not defined"
+
 ```
 
 ## 4.7. Excel
